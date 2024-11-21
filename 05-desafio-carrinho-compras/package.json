@@ -1,0 +1,13 @@
+{
+  "name": "05-desafio-carrinho-compras",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "arlete-leite",
+  "license": "ISC",
+  "description": "projeto de simulação de um carrinho de compras de um e-commerce."
+}

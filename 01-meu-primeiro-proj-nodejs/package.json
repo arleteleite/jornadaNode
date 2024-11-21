@@ -1,0 +1,12 @@
+{
+  "name": "01-meu-primeiro-proj-nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["seção de palavras-chaves para facilitar a busca"],
+  "author": "arlete-leite",
+  "license": "ISC - a licença é a empresa que determina",
+  "description": ""
+}

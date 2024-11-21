@@ -1,0 +1,12 @@
+{
+  "name": "02-desafio-mario-kart",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "arlete-leite",
+  "license": "ISC",
+  "description": "Desefio executado durante a jornada NODE da DIO com o Prof. Felipe Aguiar."
+}
